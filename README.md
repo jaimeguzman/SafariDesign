@@ -1,4 +1,4 @@
-##Class Repository
+## Class Repository
 
 Repository for Safari Live class: *Practical Software Design*
 April 1, 2021, by Simon Roberts
